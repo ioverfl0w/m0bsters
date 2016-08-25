@@ -1,0 +1,2 @@
+(hit) syntax: hit [player] [amount]
+(hit) this will set a bounty on a player for the set amount, which will be granted to the user who kills the specified player.

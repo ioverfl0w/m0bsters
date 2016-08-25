@@ -1,0 +1,14 @@
+1	Trap House	4500	225
+4	Pub	12150	345
+9	Shipyard	24250	725
+15	Restaurant	48350	1505
+22	Office Building	66450	3125
+29	Armory	102550	5510
+37	Nightclub	165650	12790
+46	Casino	331750	25985
+54	Shopping Mall	650000	34500
+66	Hotel	1045545	40000
+73	TV Studio	1503725	43750
+81	Record Label	2000000	91250
+93	Courier Service	2900000	125000
+101	International Airport	55000000	254351

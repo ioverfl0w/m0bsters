@@ -1,0 +1,2 @@
+(bank) syntax: bank [deposit/withdraw/balance] [amount]
+(bank) note: the bank charges a 10% fee on each deposit made, to ensure the safety of your money.
